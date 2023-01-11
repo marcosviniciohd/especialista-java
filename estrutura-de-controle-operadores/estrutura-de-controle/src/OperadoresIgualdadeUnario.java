@@ -1,4 +1,4 @@
-public class Main {
+public class OperadoresIgualdadeUnario {
     public static void main(String[] args) {
         /**
          * Operador de igualdade ----> ==
